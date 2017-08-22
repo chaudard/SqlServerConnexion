@@ -4,5 +4,4 @@ encode the datas for connexion with sql server.
 - database name
 - table name
 
-- a config file (json) is saved if you success the connexion.
-# SqlServerConnexion
+a config file (json) is saved if you success the connexion.
