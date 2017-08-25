@@ -41,7 +41,7 @@ type TConnector = class
                        const abUserPassword: boolean;
                        const aUser: string;
                        const aPassword: string); overload;
-    destructor  Destroy;
+    destructor  Destroy; override;
 
 end;
 
